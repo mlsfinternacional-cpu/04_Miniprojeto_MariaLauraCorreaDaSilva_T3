@@ -1,0 +1,5 @@
+# Ambiente virtual
+.venv/
+
+# Roteiros pessoais de desenvolvimento
+src_ambiente_py_windows.md
