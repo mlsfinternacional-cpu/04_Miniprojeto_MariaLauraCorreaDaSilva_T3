@@ -1,6 +1,6 @@
 # Mini-Projeto Avaliativo — Análise Exploratória de Dados de Varejo
 
-![Capa da análise](images/capa_analise.jpeg)
+![Capa da análise](images/capa_analise.jpg)
 
 ## Sobre o projeto
 
