@@ -22,22 +22,22 @@ e agrupamento, produzindo conclusões objetivas sobre os dados.
 
 ## Sprint 0 — Planejamento
 
-- [ ] Ler e interpretar o edital
-- [ ] Transformar os requisitos em checklist
-- [ ] Conferir a estrutura do projeto no VS Code
-- [ ] Confirmar localização da base `Varejo.csv`
-- [ ] Definir o fluxo da análise
+- [X] Ler e interpretar o edital
+- [X] Transformar os requisitos em checklist
+- [X] Conferir a estrutura do projeto no VS Code
+- [X] Confirmar localização da base `Varejo.csv`
+- [X] Definir o fluxo da análise
 
 ---
 
 ## Sprint 1 — Importação e reconhecimento dos dados
 
-- [ ] Importar a base com `pandas`
-- [ ] Verificar número de registros
-- [ ] Verificar número e nomes das colunas
-- [ ] Verificar tipos de dados
-- [ ] Visualizar os primeiros registros
-- [ ] Obter uma visão inicial da estrutura da base
+- [X] Importar a base com `pandas`
+- [X] Verificar número de registros
+- [X] Verificar número e nomes das colunas
+- [X] Verificar tipos de dados
+- [X] Visualizar os primeiros registros
+- [X] Obter uma visão inicial da estrutura da base
 
 **Resultado esperado:** fotografia inicial da base.
 
@@ -45,12 +45,12 @@ e agrupamento, produzindo conclusões objetivas sobre os dados.
 
 ## Sprint 2 — Transformação e tipos de dados
 
-- [ ] Identificar tipos que precisam de ajuste
-- [ ] Verificar strings, inteiros e demais tipos relevantes
-- [ ] Verificar a coluna `DATA`
-- [ ] Converter `DATA` para `datetime`
-- [ ] Validar a conversão
-- [ ] Registrar problemas encontrados
+- [X] Identificar tipos que precisam de ajuste
+- [X] Verificar strings, inteiros e demais tipos relevantes
+- [X] Verificar a coluna `DATA`
+- [X] Converter `DATA` para `datetime`
+- [X] Validar a conversão
+- [X] Registrar problemas encontrados
 
 **Resultado esperado:** dados com tipos adequados para a análise.
 
@@ -60,31 +60,31 @@ e agrupamento, produzindo conclusões objetivas sobre os dados.
 
 ### Valores nulos
 
-- [ ] Verificar nulos por coluna
-- [ ] Identificar quais colunas apresentam problemas
-- [ ] Definir o tratamento adequado
-- [ ] Aplicar o tratamento
-- [ ] Justificar a escolha
+- [X] Verificar nulos por coluna
+- [X] Identificar quais colunas apresentam problemas
+- [X] Definir o tratamento adequado
+- [X] Aplicar o tratamento
+- [X] Justificar a escolha
 
 ### Duplicatas
 
-- [ ] Verificar registros duplicados
-- [ ] Avaliar se são duplicatas relevantes
-- [ ] Remover quando necessário
-- [ ] Conferir o resultado
+- [X] Verificar registros duplicados
+- [X] Avaliar se são duplicatas relevantes
+- [X] Remover quando necessário
+- [X] Conferir o resultado
 
 ### Categorias
 
-- [ ] Verificar categorias vazias/inconsistentes
-- [ ] Tratar categorias vazias quando necessário
-- [ ] Utilizar `Sem Categoria` quando aplicável
-- [ ] Validar o resultado
+- [X] Verificar categorias vazias/inconsistentes
+- [X] Tratar categorias vazias quando necessário
+- [X] Utilizar `Sem Categoria` quando aplicável
+- [X] Validar o resultado
 
 ### Regras de negócio
 
-- [ ] Verificar a regra do identificador da compra
-- [ ] Validar `CO_ID`
-- [ ] Conferir possíveis inconsistências
+- [X] Verificar a regra do identificador da compra
+- [X] Validar `CO_ID`
+- [X] Conferir possíveis inconsistências
 
 **Resultado esperado:** base limpa e validada.
 
@@ -152,7 +152,7 @@ Produzir de **3 a 6 conclusões** contendo:
 
 ---
 
-# 📦 Entrega final
+# Entrega final
 
 ## Código
 
@@ -183,7 +183,7 @@ Produzir de **3 a 6 conclusões** contendo:
 
 ---
 
-# ✅ Checklist da Rubrica
+# Checklist da Rubrica
 
 | Critério | Status |
 |---|---|
@@ -197,7 +197,7 @@ Produzir de **3 a 6 conclusões** contendo:
 
 ---
 
-# 🧠 Regra do projeto
+# Regra do projeto
 
 > **Primeiro entender os dados.  
 > Depois tratar.  
