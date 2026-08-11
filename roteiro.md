@@ -151,10 +151,9 @@ Produzir de **3 a 6 conclusões** contendo:
 - [X] Incluir reflexão sobre ETL e qualidade dos dados
 
 ---
+## Sprint 6- Entrega Final
 
-# Entrega final
-
-## Código
+### Código
 
 - [X] Arquivo `.py` ou `.ipynb`
 - [X] Código executável
@@ -162,7 +161,7 @@ Produzir de **3 a 6 conclusões** contendo:
 - [X] etapas claramente identificadas
 - [X] Tratamentos documentados de forma objetiva
 
-## GitHub
+### Github
 
 - [X] Repositório público
 - [X] Pasta seguindo o padrão do projeto
@@ -172,14 +171,14 @@ Produzir de **3 a 6 conclusões** contendo:
 - [X] Base/arquivo tratado conforme definido no projeto
 - [X] Versionamento realizado
 
-## Submissão
+### Submissão
 
-- [ ] Conferir estrutura final do repositório
-- [ ] Conferir se todos os arquivos abrem corretamente
-- [ ] Conferir README
-- [ ] Conferir código do início ao fim
-- [ ] Submeter link do GitHub no AVA
-- [ ] Prazo: **17/08/2026 às 22h**
+- [X] Conferir estrutura final do repositório
+- [X] Conferir se todos os arquivos abrem corretamente
+- [X] Conferir README
+- [X] Conferir código do início ao fim
+- [X] Submeter link do GitHub no AVA
+- [X] Prazo: **17/08/2026 às 22h**
 
 ---
 
