@@ -158,19 +158,19 @@ Produzir de **3 a 6 conclusões** contendo:
 
 - [X] Arquivo `.py` ou `.ipynb`
 - [X] Código executável
-- [ ] Lógica organizada
-- [ ] Etapas claramente identificadas
-- [ ] Tratamentos documentados de forma objetiva
+- [X] Lógica organizada
+- [X] etapas claramente identificadas
+- [X] Tratamentos documentados de forma objetiva
 
 ## GitHub
 
-- [ ] Repositório público
-- [ ] Pasta seguindo o padrão do projeto
+- [X] Repositório público
+- [X] Pasta seguindo o padrão do projeto
 - [X] Código inserido
 - [X] `README.md`
 - [X] `README_NomeDoAluno_Turma.md`
 - [X] Base/arquivo tratado conforme definido no projeto
-- [ ] Versionamento realizado
+- [X] Versionamento realizado
 
 ## Submissão
 
