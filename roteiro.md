@@ -10,7 +10,7 @@
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Realizar uma Análise Exploratória de Dados (AED) da base `Varejo.csv`,
 aplicando etapas de inspeção, tratamento, transformação, estatística descritiva
@@ -18,7 +18,7 @@ e agrupamento, produzindo conclusões objetivas sobre os dados.
 
 ---
 
-# 🧭 ROTEIRO
+# ROTEIRO
 
 ## Sprint 0 — Planejamento
 
@@ -98,13 +98,13 @@ Número de filhos do cliente.
 
 Calcular:
 
-- [ ] Contagem
-- [ ] Média
-- [ ] Mediana
-- [ ] Desvio padrão
-- [ ] Moda
-- [ ] Mínimo
-- [ ] Máximo
+- [X] Contagem
+- [X] Média
+- [X] Mediana
+- [X] Desvio padrão
+- [X] Moda
+- [X] Mínimo
+- [X] Máximo
 
 **Resultado esperado:** resumo estatístico da variável `CL_FHL`.
 
@@ -117,38 +117,38 @@ Realizar pelo menos **dois agrupamentos**, utilizando
 
 ### Agrupamento 1
 
-- [ ] Definir pergunta
-- [ ] Realizar agrupamento
-- [ ] Interpretar resultado
+- [X] Definir pergunta
+- [X] Realizar agrupamento
+- [X] Interpretar resultado
 
 ### Agrupamento 2
 
-- [ ] Definir pergunta
-- [ ] Realizar agrupamento
-- [ ] Interpretar resultado
+- [X] Definir pergunta
+- [X] Realizar agrupamento
+- [X] Interpretar resultado
 
 **Resultado esperado:** identificação de padrões relevantes nos dados.
 
 ---
 
-## Sprint 6 — Conclusões e documentação
+### Conclusões Insghts e Documentação
 
 ### Insights
 
 Produzir de **3 a 6 conclusões** contendo:
 
-- [ ] Principais descobertas
-- [ ] Padrões identificados
-- [ ] Resultados relevantes dos agrupamentos
-- [ ] Possíveis problemas remanescentes na base
+- [X] Principais descobertas
+- [X] Padrões identificados
+- [X] Resultados relevantes dos agrupamentos
+- [X] Possíveis problemas remanescentes na base
 
 ### README
 
-- [ ] Descrever o projeto
-- [ ] Explicar o objetivo
-- [ ] Registrar a metodologia utilizada
-- [ ] Registrar os principais insights
-- [ ] Incluir reflexão sobre ETL e qualidade dos dados
+- [X] Descrever o projeto
+- [X] Explicar o objetivo
+- [X] Registrar a metodologia utilizada
+- [X] Registrar os principais insights
+- [X] Incluir reflexão sobre ETL e qualidade dos dados
 
 ---
 
@@ -156,8 +156,8 @@ Produzir de **3 a 6 conclusões** contendo:
 
 ## Código
 
-- [ ] Arquivo `.py` ou `.ipynb`
-- [ ] Código executável
+- [X] Arquivo `.py` ou `.ipynb`
+- [X] Código executável
 - [ ] Lógica organizada
 - [ ] Etapas claramente identificadas
 - [ ] Tratamentos documentados de forma objetiva
@@ -166,10 +166,10 @@ Produzir de **3 a 6 conclusões** contendo:
 
 - [ ] Repositório público
 - [ ] Pasta seguindo o padrão do projeto
-- [ ] Código inserido
-- [ ] `README.md`
-- [ ] `README_NomeDoAluno_Turma.md`
-- [ ] Base/arquivo tratado conforme definido no projeto
+- [X] Código inserido
+- [X] `README.md`
+- [X] `README_NomeDoAluno_Turma.md`
+- [X] Base/arquivo tratado conforme definido no projeto
 - [ ] Versionamento realizado
 
 ## Submissão
