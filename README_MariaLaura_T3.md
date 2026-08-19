@@ -2,8 +2,14 @@
 
 ## Ambiente
 
-Projeto desenvolvido em Python utilizando VS Code, Jupyter Notebook e ambiente virtual .venv.
+Projeto desenvolvido em Python utilizando VS Code, Jupyter Notebook e ambiente virtual `.venv`.
 
+As bibliotecas `pandas` e `matplotlib` são necessárias para a execução do notebook.
+
+Em ambiente limpo, podem ser instaladas com:
+
+```bash
+pip install pandas matplotlib
 ## Execução
 
 1. Abra o projeto no VS Code.
