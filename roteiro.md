@@ -186,13 +186,13 @@ Produzir de **3 a 6 conclusões** contendo:
 
 | Critério | Status |
 |---|---|
-| Versionamento / GitHub | ⬜ |
-| Documentação / README | ⬜ |
-| Manipulação da base CSV | ⬜ |
-| Tratamento de nulos e condicionais | ⬜ |
-| Regras de negócio e datas | ⬜ |
-| Pelo menos 2 agrupamentos | ⬜ |
-| Estatísticas de `CL_FHL` | ⬜ |
+| Versionamento / GitHub | OK |
+| Documentação / README | OK |
+| Manipulação da base CSV | OK |
+| Tratamento de nulos e condicionais | OK |
+| Regras de negócio e datas | OK |
+| Pelo menos 2 agrupamentos | OK |
+| Estatísticas de `CL_FHL` | OK |
 
 ---
 
